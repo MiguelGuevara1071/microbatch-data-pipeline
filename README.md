@@ -46,8 +46,15 @@ Tablas:
 
 ## Resultados
 
-- Tras 5 archivos: `143 filas, 139 con precio, suma 8046.00, promedio 57.884892, min 10, max 100`
-- Tras `validation.csv`: `151 filas, 147 con precio, suma 8380.00, promedio 57.006803, min 10, max 100`
+- Tras 5 archivos: `Total 143 filas, promedio 57.884892, min 10, max 100`
+
+![Resultados 1, 5 archivos](imagenes/image-resultados-1.png)
+> Nota: Sin diferencias.
+
+- Tras `validation.csv`: `Total 151 filas, promedio 57.006803, min 10, max 100`
+
+![Resultados 2, archivo validation](imagenes/image-resultados-2.png)
+> Nota: Sin diferencias.
 
 ## Cómo correrlo en Colab (recomendado)
 
